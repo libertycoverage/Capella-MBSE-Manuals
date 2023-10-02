@@ -1,6 +1,10 @@
 
 
-# How to export project
+# Capella MBSE MANUAL for project import or export, when you need to move project around
+
+
+
+## How to export project
 
 
 go into "Workspace default" folder or a folder of a current Workspace
@@ -14,7 +18,7 @@ you have now exported project
 
 
 
-# Manual for importing projects or opening in new Capella instance or opening on a different computer
+## Manual for importing projects or opening in new Capella instance or opening on a different computer
 
 open capella.exe
 
