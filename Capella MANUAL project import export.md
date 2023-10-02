@@ -7,7 +7,7 @@ go into "Workspace default" folder or a folder of a current Workspace
 
 go into the last folder containing .afm aird and .capella files
 
-pachage that last folder into .zip
+package that last folder into .zip
 
 
 you have now exported project
